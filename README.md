@@ -4,5 +4,5 @@
 https://potatoapple314.github.io/blog/
 
 ```math
-e^{i\pi} = -1
+x^{2}
 ```
